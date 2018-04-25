@@ -31,4 +31,4 @@ Basta responder [este formulário]() para sabermos seu nível de conhecimento, e
 
 ## Responsáveis
 
-Caso você precise entrar em contato com as pessoas responsáveis por este grupo de estudos, pode chamar por `@alinebot` no Slack do Training Center.
+Caso você precise entrar em contato com as pessoas responsáveis por este grupo de estudos, pode chamar por `@manzolirch` no Slack do Training Center.
